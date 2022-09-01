@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp /my_fist_directory
+mkdir /tmp/my_fist_directory/
